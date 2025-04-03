@@ -1,3 +1,9 @@
+
+This project comes from an excellent fork, planned to optimize the operation and display of the settings window.
+Here is the original readme:
+
+---
+
 ## Carnac the Magnificent Keyboard Utility & Mouse Highlighter*
 
 This is a Fork of Carnac which adds mouse click highlights with circles, as well as key icons. The current version can be manually downloaded and tested from the [release page](https://github.com/bfritscher/carnac/releases). This project is not actively maintained, but patched together in my spare time and based on my needs when giving tutorials.
