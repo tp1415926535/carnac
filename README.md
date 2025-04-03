@@ -1,5 +1,5 @@
 
-This project comes from an excellent fork, planned to optimize the operation and display of the settings window.
+This project comes from an excellent fork, planned to optimize the operation and display of the settings window in the `improve` branch.
 Here is the original readme:
 
 ---
